@@ -1,0 +1,7 @@
+Pugna 4 5 3
+Riki 4 3 4
+Magnus 5 3 3
+Luna 5 5 5
+Spectra 5 5 2
+Lina 5 2 5
+Kurrito 5 5 5
